@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&family=Oswald:wght@600&family=Poppins:ital,wght@1,100&family=Roboto:ital,wght@0,100;1,400;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Croissant One', cursive;
+
+}
+body{
+    background: rgb(25, 25, 39);
+}
+.container{
+    height: auto;
+    width: 70%;
+    background: whitesmoke;
+    margin: 100px auto;
+    border-radius: 5px solid black;
+   
+}
+.container p{
+    margin: -19px 38px;
+    padding: 20px 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+.container input{
+    margin: 20px 20px;
+    padding: 10px 10px;
+    margin: 40px;
+   
+}
+
+
+button{
+    background: rgb(170, 170, 175);
+    box-shadow: 0rem;
+    font-weight: bold;
+    padding: 5px 20px;
+    margin: 20px ;
+}
+.showimg{
+    
+}
+.imgBox{
+    width: 50px;
+    justify-content: center;
+}
+h1{
+    color: aqua;
+    margin: 20px 40px;
+}
